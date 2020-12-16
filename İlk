@@ -1,0 +1,8 @@
+echo "# depo" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk commit" 
+git branch -M main 
+git uzak kaynak ekle https://github.com/selimesnaf/depo.git
+ git push - sen asıl ana
+                
